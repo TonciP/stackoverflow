@@ -1,0 +1,21 @@
+.content-cantidad{
+    display: block;
+    width: 5%;
+    text-align: center;
+}
+.content-cantidad p{
+    margin: 0px;
+}
+.content-pregunta{
+    display: flex;
+}
+.contenedor-pregunta{
+    width: 95%;
+    margin-left: 20px;
+}
+.content-respuestas{
+    display: flex;
+}
+.respuesta p{
+    margin: 0px;
+}

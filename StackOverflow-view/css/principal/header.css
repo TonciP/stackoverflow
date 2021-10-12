@@ -1,0 +1,36 @@
+
+.conten-header{
+    width: 1200px;
+    margin: 10px auto;
+}
+header{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.conten-nav div{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.conten-nav div input{
+    margin: 0px 10px;
+    height: 30px;
+}
+.conten-nav div p{
+    display: flex;
+    margin: 0px;
+    margin-right: 10px;
+    align-items: center;
+}
+#nav-principal{
+    display: flex;
+    align-items: center;
+    margin: 0px;
+}
+#nav-principal a{
+    color: gray;
+}
+#nav-principal a:hover{
+    background: beige;
+}

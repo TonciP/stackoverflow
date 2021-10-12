@@ -1,0 +1,17 @@
+*{
+    font-family: "Calibri Light";
+}
+
+#search-preguntas{
+    width: 500px;
+}
+body{
+    margin: 0px;
+}
+.politica-privacidad p{
+    display: flex;
+    width: 1100px;
+    margin: 5px auto;
+    height: 30px;
+    align-items: center;
+}
